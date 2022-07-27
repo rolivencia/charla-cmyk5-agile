@@ -27,6 +27,9 @@ En este apartado podrán encontrar recursos y material diverso acerca de los tó
 * Sutherland, Jeff - Scrum: Doing Twice the Work in Half the Time
 * Cockburn, Alistair - Crystal Clear: A Human-Powered Methodology for Small Teams
 
+### Tesis de grado
+* Brooks Hollar, Ashby - [Cowboy: An Agile Programming Methodology for a Solo Programmer](https://scholarscompass.vcu.edu/etd/741/)
+
 ### Videos
 * Martin, Robert C. - [Clean Agile: Back to Basics (en YouTube)](https://www.youtube.com/watch?v=4JihsBOBbdI)
 * Cockburn, Alistair - [El Corazón de la Agilidad (en YouTube, subs en español)](https://www.youtube.com/watch?v=1vpW2mJa6Ac&t=61s)
